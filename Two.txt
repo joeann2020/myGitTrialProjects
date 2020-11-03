@@ -1,2 +1,2 @@
 Second file line 1
-Seconf file line 2
+Second file line 2
